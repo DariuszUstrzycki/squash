@@ -1,4 +1,8 @@
 linijka one
 lin two
 lin three
+<<<<<<< HEAD
 line four
+=======
+lin four
+>>>>>>> parent of 66a3458... All files have two lines again
